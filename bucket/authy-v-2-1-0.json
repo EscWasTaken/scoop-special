@@ -20,9 +20,4 @@
             "Authy Desktop"
         ]
     ],
-    "checkver": {
-        "url": "https://s3.amazonaws.com/authy-electron-repository-production/_squirrel/authy/stable/x64/RELEASES",
-        "regex": "authy-([\\d.]+)-full\\.nupkg",
-        "reverse": true
-    }
 }
