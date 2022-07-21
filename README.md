@@ -1,5 +1,5 @@
 <h1 style="text-align: center; font-weight: bold;"> :star2: Special :star2: </h1>
-My own special scoop bucket containing app special app manifests that I need
+My own special scoop bucket containing specific special app manifests that I need
 
 To add run `scoop bucket add special https://github.com/EscWasTaken/scoop-special`
 
