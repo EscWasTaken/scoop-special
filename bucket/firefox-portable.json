@@ -1,0 +1,22 @@
+{
+    "version": "103.0.1",
+    "description": "Firefox Portable by PortableApps.com, English",
+    "homepage": "https://portableapps.com/apps/internet/firefox_portable",
+    "license": "MPL-2.0",
+    "url": "https://download2.portableapps.com/portableapps/FirefoxPortable/FirefoxPortable_103.0.1_English.paf.exe",
+    "hash": "a2c6c8dd0a70e9c39d2e8444ceb991946add1bc435aa03137a09949225bfbf6b",
+    "installer": {
+        "keep": false
+    },
+    "notes": "Currently auto updates are unavailable. Run 'scoop info firefox-portable' and visit homepage if new version is need",
+    "shortcuts": [
+        [
+        "FireFoxPortable/FirefoxPortable.exe",
+        "Firefox Portable"
+        ]
+
+    ],
+    "persist": [
+        "FireFoxPortable/Data"
+    ]
+}
