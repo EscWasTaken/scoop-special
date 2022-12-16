@@ -6,3 +6,5 @@ These are packages with specific versions and no auto-update. Should only be use
 ## My Own Creations 🧪
 These are manifests I've made myself for my own personal use. May not work as expected. Use at own risk.
 - [Firefox Portable](https://github.com/EscWasTaken/scoop-special/blob/main/bucket/firefox-portable.json)
+- [BetterDiscord Installer](https://github.com/EscWasTaken/scoop-special/blob/main/bucket/BetterDiscord-Installer.json)
+- [fetchfetch](https://github.com/EscWasTaken/scoop-special/blob/main/bucket/fetchfetch.json)
